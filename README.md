@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi, nice to meet you 👋
 
 <img src="https://raw.githubusercontent.com/SwineCoder101/SwineCoder101/main/assets/bouncing-ball.svg" width="260" alt="A bouncing green ball" />
 

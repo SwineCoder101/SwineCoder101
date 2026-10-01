@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/SwineCoder101/SwineCoder101/main/assets/bouncing-ball.svg" width="260" alt="A bouncing green ball" />
 
-I'm Liam — a senior Rust/Solana engineer based in London, UK.
+I'm Liam — a Senior Fullstack Rust/Solana engineer based in London, UK.
 
 I'm building on Solana, working with perpetuals, predictions, and lending.
 

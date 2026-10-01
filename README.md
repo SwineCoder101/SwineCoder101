@@ -6,7 +6,7 @@ I'm Liam — a senior Rust/Solana engineer based in London, UK.
 
 I'm building on Solana, working with perpetuals, predictions, and lending.
 
-**Stack:** Rust · Axum · Tokio · Anchor · Pinocchio · Yellowstone gRPC · Postgres
+**Stack:** Rust · Axum · Tokio · Anchor · Pinocchio · Yellowstone gRPC · TS/React/Node/Nextjs · Postgres
 
 More about me at [liamfaruq.com](https://liamfaruq.com)
 

@@ -1,12 +1,17 @@
-# Hi, nice to meet you 👋
+# Hey, I'm Liam 👋 — a Rust/Solana engineer based in London.
 
 <img src="https://raw.githubusercontent.com/SwineCoder101/SwineCoder101/main/assets/bouncing-ball.svg" width="260" alt="A bouncing green ball" />
 
-I'm Liam — a Senior Fullstack Rust/Solana engineer based in London, UK.
+These days I'm mostly building on Solana: perpetuals, prediction markets and lending.
 
-I'm building on Solana, working with perpetuals, predictions, and lending.
+Things I'm into:
+- DeFi
+- Solana and Ethereum
+- Distributed systems
+- Systems-level programming
+- Machine learning
 
-**Stack:** Rust · Axum · Tokio · Anchor · Pinocchio · Yellowstone gRPC · TS/React/Node/Nextjs · Postgres
+**Stack:** Rust · Axum · Tokio · Anchor · Pinocchio · Yellowstone gRPC · TS/React/Node/Next.js · Postgres
 
 More about me at [liamfaruq.com](https://liamfaruq.com)
 

@@ -1,4 +1,4 @@
-# Hey, I'm Liam 👋 — a Rust engineer based in London.
+# Hey, I'm Liam 👋 — a rust engineer based in London.
 
 <img src="https://raw.githubusercontent.com/SwineCoder101/SwineCoder101/main/assets/bouncing-ball.svg" width="260" alt="A bouncing green ball" />
 
